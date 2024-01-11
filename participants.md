@@ -16,9 +16,7 @@
 *
 *
 *
-*
-*
-*
+*Vinyet Arbiol Giménez, Contemporary Art
 *
 *
 *
