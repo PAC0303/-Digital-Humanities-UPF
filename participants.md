@@ -1,8 +1,10 @@
 ## Collaboration with GitHub - 11 January 2024
 
 ### Course organisers
-* Simone Ventura
 * Celine Kerfant, Cel31, archaeobotany
+* Jonas Gregorio de Souza
+* Marija Blaskovic
+* Simone Ventura, simoneve74, medieval languages and literatures
 
 ### Add your Name, GitHub Name, Discipline
 
