@@ -8,15 +8,9 @@
 
 * Paula Gonzalez Luque, modern and contemporary art
 * Bryan Bravo, bbravo101, Student
-*
 * Naihara Santillan Hernandez, Nei03, History
-*
-*
-*
-*
 * Susana Marquez Parente, susanamarquez, Modern and Contemporary World
-*
-*Vinyet Arbiol Giménez, Contemporary Art
+* Vinyet Arbiol Giménez, Contemporary Art
 *
 *
 *
