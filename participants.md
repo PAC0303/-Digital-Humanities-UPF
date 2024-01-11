@@ -9,7 +9,7 @@
 * Paula Gonzalez Luque, modern and contemporary art
 * Bryan Bravo, bbravo101, Student
 *
-*
+* Naihara Santillan Hernandez, Nei03, History
 *
 *
 *
