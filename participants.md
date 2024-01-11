@@ -6,7 +6,7 @@
 
 ### Add your Name, GitHub Name, Discipline
 *
-*
+* Naihara Santillan Hernandez, Nei03, History
 *
 *
 *
